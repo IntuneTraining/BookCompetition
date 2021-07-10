@@ -1,4 +1,7 @@
 # BookCompetition
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/IntuneTraining/BookCompetition)
+
 Simple functions to extract comments from youtube video and pick winners at random.
 
 ## How to use
